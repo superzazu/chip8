@@ -1,0 +1,5 @@
+.DS_Store
+chip8
+*.o
+roms
+Blip_Select9.wav
